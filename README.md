@@ -1,4 +1,5 @@
 # Docker CLI Guide
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository provides a comprehensive guide to using Docker Command-Line Interface (CLI) commands.
 
